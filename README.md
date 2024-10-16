@@ -15,8 +15,10 @@ https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images
 
 Best Regards!
 
-Sources
+**Sources**
+
 This dataset is made by combining different datasets from the web.
 
-License: 
+**License**
+
 CC0: Public Domain
